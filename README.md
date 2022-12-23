@@ -1,2 +1,2 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranavdulepet)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdulepet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranav's GitHub stats](https://github-readme-stats-gamma-ashy-92.vercel.app/api?username=pranavdulepet&show_icons=true&theme=dracula&count_private=false)](https://github.com/pranavdulepet/github-readme-stats)[![Pranav's Top Langs](https://github-readme-stats-gamma-ashy-92.vercel.app/api/top-langs/?username=pranavdulepet&langs_count=9&layout=compact&hide=Cython,html,Standard%20ML,python,Jupyter%20Notebook,make,cmake&theme=dracula&count_private=false)](https://github.com/pranavdulepet/github-readme-stats)
+
